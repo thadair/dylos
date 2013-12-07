@@ -1,0 +1,13 @@
+{
+  "name": "Airrive",
+  "description": "Responsive indoor AQI monitor",
+  "launch_path": "/",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Airrive Limited",
+    "url": "##"
+  },
+  "default_locale": "en"
+}
